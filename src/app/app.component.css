@@ -1,0 +1,14 @@
+.match
+{
+    color: rgb(8, 243, 8);
+}
+
+.notMatch
+{
+    color: red;
+}
+
+.pending
+{
+    color: grey;
+}
